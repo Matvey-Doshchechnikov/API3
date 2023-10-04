@@ -1,0 +1,12 @@
+.env
+.replit
+/.upm
+/.pythonlibs
+/.cache
+pyproject.toml
+poetry.lock
+replit.nix
+.DS_Store
+/.idea
+replit_zip_error_log.txt
+.gitattributes
